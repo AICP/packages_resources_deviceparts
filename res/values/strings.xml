@@ -124,6 +124,7 @@
   <string name="auto_refresh_rate_summary">Let apps decide what refresh rate to use</string>
 
   <!-- QS Tiles -->
+  <string name="tile_dcd_mode">DC-Dimming</string>
   <string name="tile_hbm_mode">High brightness mode</string>
   <string name="tile_panel_mode">Display Panel modes</string>
   <string name="tile_refresh_rate">Screen refresh rate</string>
