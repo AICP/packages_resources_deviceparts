@@ -71,6 +71,17 @@
   <string name="fastcharge_summary">Fastcharge up to 900mA</string>
   <string name="fastcharge_title">Fastcharge</string>
 
+  <!-- audio gain -->
+  <string name="category_audiogains">Audio gains</string>
+  <string name="headphone_gain_title">Headphone</string>
+  <string name="headphone_gain_summary">Adjust for headphones</string>
+  <string name="earpiece_gain_title">Earpiece</string>
+  <string name="earpiece_gain_summary">Adjust for earpiece</string>
+  <string name="mic_gain_title">Microphone</string>
+  <string name="mic_gain_summary">Adjust for microphone</string>
+  <string name="speaker_gain_title">Speakers</string>
+  <string name="speaker_gain_summary">Adjust for speakers</string>
+
   <!-- fingerprnt gestures - NOT for in-screen sensors -->
   <string name="fp_gesture_title">Fingerprint gestures</string>
   <string name="fp_gesture_title_summary">Perform quick actions by swiping over the fp scanner</string>
