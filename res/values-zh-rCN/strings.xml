@@ -23,7 +23,6 @@
   <string name="double_tap_title">双击唤醒</string>
   <string name="double_tap_summary">双击时唤醒屏幕</string>
   <string name="sweep_to_wake_title">滑动唤醒</string>
-  <string name="sweep_to_wake_summary">从左到右扫动显示屏底部以唤醒手机</string>
   <string name="category_audio">音频</string>
   <string name="sound_title">声音改进</string>
   <string name="sound_summary">基于媒体内容配置音频输出。</string>
@@ -117,6 +116,7 @@
   <string name="panel_mode_info">禁用颜色模式需要重启。</string>
   <string name="off_mode_title">关闭</string>
   <string name="srgb_mode_title">sRGB 模式</string>
+  <string name="adobergb_mode_title">Adobe RGB 模式</string>
   <string name="dci_mode_title">DCI-P3 模式</string>
   <string name="wide_mode_title">AMOLED 广色域</string>
   <string name="oneplus_mode_title">一加模式</string>

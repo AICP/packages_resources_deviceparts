@@ -23,7 +23,6 @@
   <string name="double_tap_title">Διπλό χτύπημα για αφύπνιση</string>
   <string name="double_tap_summary">Με διπλό χτύπημα αφυπνεί την οθόνη</string>
   <string name="sweep_to_wake_title">Σύρσιμο για αφύπνιση οθόνης</string>
-  <string name="sweep_to_wake_summary">Αφύπνηση οθόνης με σύρσιμο στην οθόνη από τα αριστερά στα δεξιά</string>
   <string name="category_audio">Ήχος</string>
   <string name="sound_title">Βελτίωση ήχου</string>
   <string name="sound_summary">Διαμορφώστε την έξοδο ήχου βάσει του περιεχομένου πολυμέσων.</string>

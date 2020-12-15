@@ -23,7 +23,9 @@
   <string name="double_tap_title">Doble toque para despertar</string>
   <string name="double_tap_summary">Enciende la pantalla con doble toque</string>
   <string name="sweep_to_wake_title">Deslizar para despertar</string>
-  <string name="sweep_to_wake_summary">Despierta tu teléfono deslizando el dedo en la parte inferior de la pantalla de izquierda a derecha</string>
+  <string name="sweep_to_wake_summary">Con la pantalla apagada, despierta el teléfono deslizando el dedo en la parte inferior de la pantalla de izquierda a derecha</string>
+  <string name="sweep_to_sleep_title">Deslizar para apagar la pantalla</string>
+  <string name="sweep_to_sleep_summary">Desliza el dedo en la parte inferior de la pantalla de izquierda a derecha para apagar la pantalla cuando esté encendida</string>
   <string name="category_audio">Audio</string>
   <string name="sound_title">Mejora de sonido</string>
   <string name="sound_summary">Configure la salida de audio basada en el contenido multimedia.</string>
@@ -117,6 +119,7 @@
   <string name="panel_mode_info">Deshabilitar modos de color necesita un reinicio.</string>
   <string name="off_mode_title">Desactivado</string>
   <string name="srgb_mode_title">modo sRGB</string>
+  <string name="adobergb_mode_title">Modo RGB de Adobe</string>
   <string name="dci_mode_title">Modo DCI-P3</string>
   <string name="wide_mode_title">AMOLED Wide Gamut</string>
   <string name="oneplus_mode_title">Modo OnePlus</string>

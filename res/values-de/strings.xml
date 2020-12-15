@@ -24,6 +24,8 @@
   <string name="double_tap_summary">Bildschirm bei zweifachem Tippen einschalten</string>
   <string name="sweep_to_wake_title">Streichen zum Aufwecken - Sweep to Wake</string>
   <string name="sweep_to_wake_summary">Gerät aufwecken, indem unten über das Display von links nach rechts gestrichen wird</string>
+  <string name="sweep_to_sleep_title">Streichen zum Schlafen - Sweep to Sleep</string>
+  <string name="sweep_to_sleep_summary">Gerät in den Ruhezustand versetzen, indem unten über das Display von links nach rechts gestrichen wird</string>
   <string name="category_audio">Ton</string>
   <string name="sound_title">Klangverbesserung</string>
   <string name="sound_summary">Audioausgabe basierend auf Medieninhalten verbessern.</string>
@@ -117,6 +119,7 @@
   <string name="panel_mode_info">Die Deaktivierung erfordert einen Neustart.</string>
   <string name="off_mode_title">Aus</string>
   <string name="srgb_mode_title">sRGB</string>
+  <string name="adobergb_mode_title">Adobe RGB</string>
   <string name="dci_mode_title">DCI-P3</string>
   <string name="wide_mode_title">Erweitert (AMOLED)</string>
   <string name="oneplus_mode_title">OnePlus</string>

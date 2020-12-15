@@ -23,7 +23,6 @@
   <string name="double_tap_title">깨우려면 두 번 탭하세요.</string>
   <string name="double_tap_summary">두 번 탭하여 디스플레이 깨우기</string>
   <string name="sweep_to_wake_title">스와잎하여 깨우기</string>
-  <string name="sweep_to_wake_summary">디스플레이 하단을 왼쪽에서 오른쪽으로 쓸어 넘겨 휴대 전화를 깨 웁니다.</string>
   <string name="category_audio">오디오</string>
   <string name="sound_title">사운드 향상</string>
   <string name="sound_summary">미디어 컨텐츠를 기반으로 오디오 출력을 구성하십시오.</string>

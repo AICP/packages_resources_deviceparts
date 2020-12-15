@@ -23,7 +23,9 @@
   <string name="double_tap_title">Probuzení dvojím dotykem</string>
   <string name="double_tap_summary">Probudit obrazovku dvojím dotykem</string>
   <string name="sweep_to_wake_title">Probuzení přejetím</string>
-  <string name="sweep_to_wake_summary">Probuzení telefonu přejetím na spodní části obrazovky zleva doprava</string>
+  <string name="sweep_to_wake_summary">Při vypnuté obrazovce probudíte telefon tak, že přejedete přes spodní část displeje zleva doprava</string>
+  <string name="sweep_to_sleep_title">Sweep2sleep</string>
+  <string name="sweep_to_sleep_summary">Při zapnuté obrazovce přepnete telefon do režimu spánku tak, že přejedete přes spodní část displeje zleva doprava</string>
   <string name="category_audio">Zvuk</string>
   <string name="sound_title">Vylepšení zvuku</string>
   <string name="sound_summary">Nastavte zvukový výstup na základě mediálního obsahu.</string>
@@ -117,6 +119,7 @@
   <string name="panel_mode_info">Vypnutí barevných režimů vyžaduje restart.</string>
   <string name="off_mode_title">Vyp.</string>
   <string name="srgb_mode_title">Režim sRGB</string>
+  <string name="adobergb_mode_title">Režim Adobe RGB</string>
   <string name="dci_mode_title">Režim DCI-P3</string>
   <string name="wide_mode_title">Režim širokého spektra barev AMOLED</string>
   <string name="oneplus_mode_title">Režim OnePlus</string>

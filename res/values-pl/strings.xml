@@ -23,7 +23,6 @@
   <string name="double_tap_title">Stuknij dwukrotnie aby uśpić</string>
   <string name="double_tap_summary">Obudź ekran po dwukrotnym stuknięciu</string>
   <string name="sweep_to_wake_title">Przeciągnij, aby wybudzić</string>
-  <string name="sweep_to_wake_summary">Obudź telefon przez przeciągnięcie na dole ekranu od lewej do prawej</string>
   <string name="category_audio">Dźwięk</string>
   <string name="sound_title">Wzmocnienie dźwięku</string>
   <string name="sound_summary">Skonfiguruj wyjście audio na podstawie treści multimedialnych.</string>

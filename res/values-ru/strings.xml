@@ -23,7 +23,9 @@
   <string name="double_tap_title">Включение экрана двойным нажатием</string>
   <string name="double_tap_summary">Включать экран двойным нажатием</string>
   <string name="sweep_to_wake_title">Провести для сна</string>
-  <string name="sweep_to_wake_summary">Пробуждать телефон проведением пальцем внизу экрана слева направо</string>
+  <string name="sweep_to_wake_summary">При выключенном эране пробудите телефон, проведя пальцем внизу экрана слева направо</string>
+  <string name="sweep_to_sleep_title">Провести для сна</string>
+  <string name="sweep_to_sleep_summary">При включенном эране погасите его, проведя пальцем внизу экрана слева направо</string>
   <string name="category_audio">Аудио</string>
   <string name="sound_title">Улучшение звука</string>
   <string name="sound_summary">Настроить аудиовыход на основе медиа-контента.</string>
@@ -117,6 +119,7 @@
   <string name="panel_mode_info">Для отключения режимов цвета требуется перезагрузка.</string>
   <string name="off_mode_title">Выкл</string>
   <string name="srgb_mode_title">Режим sRGB</string>
+  <string name="adobergb_mode_title">Режим Adobe RGB</string>
   <string name="dci_mode_title">Режим DCI-P3</string>
   <string name="wide_mode_title">Широкая цветовая гамма AMOLED</string>
   <string name="oneplus_mode_title">Режим OnePlus</string>

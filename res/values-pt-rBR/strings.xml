@@ -23,7 +23,6 @@
   <string name="double_tap_title">Toque duplo para ligar a tela</string>
   <string name="double_tap_summary">Ligar a tela com um toque duplo</string>
   <string name="sweep_to_wake_title">Deslize para ligar a tela</string>
-  <string name="sweep_to_wake_summary">Ligue o seu telefone deslizando na parte inferior da tela da esquerda para a direita</string>
   <string name="category_audio">Áudio</string>
   <string name="sound_title">Aprimoramento de som</string>
   <string name="sound_summary">Configurar a saída de áudio com base no conteúdo multimídia.</string>

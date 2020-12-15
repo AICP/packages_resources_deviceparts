@@ -23,7 +23,6 @@
   <string name="double_tap_title">Dê dois toques para ligar o ecrã</string>
   <string name="double_tap_summary">Acordar a tela com um toque duplo</string>
   <string name="sweep_to_wake_title">Deslize para acordar</string>
-  <string name="sweep_to_wake_summary">Acorde o seu telefone varrendo na parte inferior da tela da esquerda para a direita</string>
   <string name="category_audio">Áudio</string>
   <string name="sound_title">Realce de cor</string>
   <string name="sound_summary">Configurar a saída de áudio com base no conteúdo multimídia.</string>

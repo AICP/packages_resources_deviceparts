@@ -23,7 +23,6 @@
   <string name="double_tap_title">ダブルタップでスリープ解除</string>
   <string name="double_tap_summary">画面をダブルタップしてスリープ解除する</string>
   <string name="sweep_to_wake_title">スワイプでスリープ解除</string>
-  <string name="sweep_to_wake_summary">画面下部の左右から上にスワイプして端末をスリープ解除する</string>
   <string name="category_audio">オーディオ</string>
   <string name="sound_title">サウンド拡張</string>
   <string name="sound_summary">メディアコンテンツに基づく音声出力を編集する</string>
@@ -117,6 +116,7 @@
   <string name="panel_mode_info">色モードを無効にするには再起動が必要です</string>
   <string name="off_mode_title">OFF</string>
   <string name="srgb_mode_title">sRGB モード</string>
+  <string name="adobergb_mode_title">Adobe RGB モード</string>
   <string name="dci_mode_title">DCI-P3 モード</string>
   <string name="wide_mode_title">AMOLED ワイドカラーガンマ</string>
   <string name="oneplus_mode_title">OnePlus モード</string>
