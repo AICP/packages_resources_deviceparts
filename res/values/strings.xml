@@ -179,4 +179,8 @@
   <string name="buttons_title">Buttons</string>
   <string name="swap_back_recents_summary"></string>
   <string name="swap_back_recents_title">Swap back and recents button</string>
+
+  <!-- speaker protection -->
+  <string name="speakerprotection_summary">Speaker protection feature</string>
+  <string name="speakerprotection_title">Speaker protection</string>
 </resources>
