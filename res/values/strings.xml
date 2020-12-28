@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (C) 2014-2017 The OmniROM Project
+     Copyright (C) 2021 Android Ice Cold Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -193,4 +194,8 @@
   <string name="dolby_atmos_packagename">com.dolby.daxservice</string>
   <!-- Sound tuner package -->
   <string name="sound_tuner_packagename">com.oneplus.sound.tuner</string>
+
+  <!-- speaker protection -->
+  <string name="speakerprotection_summary">Speaker protection feature</string>
+  <string name="speakerprotection_title">Speaker protection</string>
 </resources>
