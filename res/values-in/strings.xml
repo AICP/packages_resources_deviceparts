@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014-2017 The OmniROM Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+  <string name="device_title">Pengaturan perangkat tambahan</string>
+  <string name="device_summary">Sesuaikan pengaturan perangkat unik</string>
+  <string name="advanced_settings">Setelan lanjutan</string>
+  <string name="wake_entry">Bangun</string>
+  <string name="single_tap_title">Ketuk sekali</string>
+  <string name="single_tap_summary">Bangunkan layar dengan satu ketukan dalam mode AOD</string>
+  <string name="double_tap_title">Ketuk dua kali untuk bangun</string>
+  <string name="double_tap_summary">Bangunkan layar dengan ketuk dua kali</string>
+  <string name="sweep_to_wake_title">Menyapu untuk bangun</string>
+  <string name="sweep_to_wake_summary">Dengan layar mati, bangunkan ponsel Anda dengan mengusap di bagian bawah tampilan dari kiri ke kanan</string>
+  <string name="sweep_to_sleep_title">Usap untuk tidur</string>
+  <string name="sweep_to_sleep_summary">Dengan layar aktif, bangunkan ponsel Anda dengan mengusap di bagian bawah tampilan dari kiri ke kanan</string>
+  <string name="category_audio">Suara</string>
+  <string name="sound_title">Peningkatan Suara</string>
+  <string name="sound_summary">Konfigurasikan keluaran suara berdasarkan konten media.</string>
+  <string name="enable_sound_title">Aktifkan / Nonaktifkan Tuner Suara</string>
+  <string name="enable_sound_summary">Mengalihkan MEMBUTUHKAN reboot agar berfungsi!</string>
+  <string name="enable_sound_info">Catatan: Dengan Sound Tuner diaktifkan, efek EQ lain seperti MusicFX harus dinonaktifkan.</string>
+  <string name="category_backlight_dimmer">Peredup lampu latar</string>
+  <string name="backlight_dimmer_title">Peredup lampu latar</string>
+  <string name="backlight_dimmer_summary">mengatur kecerahan tampilan minimal</string>
+  <string name="backlight_dimmer_rev_summary">mengatur kecerahan tampilan maksimal</string>
+  <string name="category_power">Daya</string>
+  <string name="fastcharge_summary">Pengisian cepat hingga 900mA</string>
+  <string name="fastcharge_title">Pengisian Cepat</string>
+  <string name="screen_gestures_panel_title">Gestur</string>
+  <string name="category_gestures_title">Gestur perangkat</string>
+  <string name="category_gestures_summary">Konfigurasi aksi gestur</string>
+  <string name="offscreen_gesture_title">Gestur layar mati</string>
+  <string name="off_screen_gesture_feedback_title_head">Umpan balik haptik</string>
+  <string name="off_screen_gesture_feedback_summary_head">Aktifkan umpan balik haptik untuk gestur</string>
+  <string name="music_play_gesture_title_head">Kontrol musik</string>
+  <string name="music_play_gesture_summary_head">Usap || dengan dua jari untuk memutar atau menjeda musik. Gambar &lt; atau &gt; untuk trek sebelumnya atau berikutnya</string>
+  <string name="category_down_swipe_gesture">Usap ke bawah</string>
+  <string name="category_up_swipe_gesture">Usap ke atas</string>
+  <string name="category_left_swipe_gesture">Usap ke kiri</string>
+  <string name="category_right_swipe_gesture">Usap ke kanan</string>
+  <string name="category_double_swipe_gesture">|| gestur</string>
+  <string name="category_up_arrow_gesture">Gestur A</string>
+  <string name="category_left_arrow_gesture">&lt; gestur</string>
+  <string name="category_right_arrow_gesture">&gt; gestur</string>
+  <string name="category_circle_gesture">Gestur O</string>
+  <string name="category_down_arrow_gesture">Gestur V</string>
+  <string name="category_m_gesture">Gestur M</string>
+  <string name="category_s_gesture">Gestur S</string>
+  <string name="category_w_gesture">Gestur W</string>
+  <string name="disabled_entry">Dinonaktifkan</string>
+  <string name="camera_entry">Kamera</string>
+  <string name="torch_entry">Senter</string>
+  <string name="music_play_entry">Putar/Jeda musik</string>
+  <string name="music_prev_entry">Trek sebelumnya</string>
+  <string name="music_next_entry">Trek berikutnya</string>
+  <string name="ambient_display_entry">Doze</string>
+  <string name="choose_app">Pilih aplikasi / tindakan</string>
+  <string name="not_ready_summary">Menyelesaikan...</string>
+  <string name="resolve_failed_summary">Gagal menyelesaikan aplikasi</string>
+  <string name="category_audiogains">Keuntungan Audio</string>
+  <string name="headphone_gain_title">Headphone</string>
+  <string name="headphone_gain_summary">Sesuaikan untuk headphone</string>
+  <string name="earpiece_gain_title">Earpiece</string>
+  <string name="earpiece_gain_summary">Sesuaikan untuk earpiece</string>
+  <string name="mic_gain_title">Mikrofon</string>
+  <string name="mic_gain_summary">Sesuaikan untuk mikrofon</string>
+  <string name="speaker_gain_title">Speaker</string>
+  <string name="speaker_gain_summary">Sesuaikan untuk speaker</string>
+  <string name="fp_gesture_title">Gestur sidik jari</string>
+  <string name="fp_gesture_title_summary">Lakukan tindakan cepat dengan mengusap pemindai fp</string>
+  <string name="category_fp_down_swipe_gesture">Usap pemindai sidik jari ke bawah</string>
+  <string name="category_fp_up_swipe_gesture">Usap pemindai sidik jari ke atas</string>
+  <string name="category_fp_right_swipe_gesture">Usap pemindai sidik jari ke kanan</string>
+  <string name="category_fp_left_swipe_gesture">Usap pemindai sidik jari ke kiri</string>
+  <string name="category_fp_long_press_gesture">Tekan lama pemindai sidik jari</string>
+  <string name="fp_swipe_down_switch_title_head">Gerakan ke bawah dengan Sidik Jari AOSP</string>
+  <string name="fp_swipe_down_switch_summary_head">Aktifkan / nonaktifkan gerakan geser ke bawah notifikasi default</string>
+  <string name="category_vibrator">Penggetar</string>
+  <string name="vib_test">Uji</string>
+  <string name="vib_strength_info">Catatan:\n\nHarap aktifkan Getaran terlebih dahulu di Setelan -&gt; Aksesibilitas -&gt; Getaran sepenuhnya untuk mendapatkan umpan balik haptic tentang mengubah kekuatan.</string>
+  <string name="vib_strength_title">Sistem</string>
+  <string name="vib_strength_summary">Tentukan kekuatan generik dari vibrator</string>
+  <string name="vib_call_strength_title">Dalam panggilan</string>
+  <string name="vib_call_strength_summary">Tentukan kekuatan untuk acara dalam panggilan secara terpisah</string>
+  <string name="vib_notif_strength_title">Notifikasi</string>
+  <string name="vib_notif_strength_summary">Tentukan kekuatan untuk pemberitahuan masuk secara terpisah</string>
+  <string name="category_slider">Slider pengingat</string>
+  <string name="slider_mode_title">Mode slider</string>
+  <string name="slider_mode_title_top">Posisi atas</string>
+  <string name="slider_mode_title_center">Posisi tengah</string>
+  <string name="slider_mode_title_bottom">Posisi bawah</string>
+  <string name="slider_mode_alarm">Hanya alarm</string>
+  <string name="slider_mode_off">Dering</string>
+  <string name="slider_mode_priority">Hanya prioritas</string>
+  <string name="slider_mode_silent">Senyap</string>
+  <string name="slider_mode_vibrate">Getar</string>
+  <string name="slider_mode_zen">Jangan Ganggu</string>
+  <string name="slider_mode_flashlight">Senter</string>
+  <string name="graphics_title">Tampilan</string>
+  <string name="dcd_mode_title">Peredupan DC</string>
+  <string name="dcd_mode_summary">Kurangi kedipan dengan melemahkan tampilan</string>
+  <string name="hbm_mode_title">Mode kecerahan tinggi</string>
+  <string name="hbm_mode_summary">Aktifkan kecerahan maksimum untuk lingkungan terang (Berdampak pada masa pakai baterai!)</string>
+  <string name="panel_category_title">Mode warna</string>
+  <string name="panel_category_summary">Mode tampilan untuk koreksi warna</string>
+  <string name="panel_mode_info">Menonaktifkan mode warna membutuhkan reboot.</string>
+  <string name="off_mode_title">Mati</string>
+  <string name="srgb_mode_title">Mode sRGB</string>
+  <string name="adobergb_mode_title">Mode Adobe RGB</string>
+  <string name="dci_mode_title">Mode DCI-P3</string>
+  <string name="wide_mode_title">AMOLED Wide Colour Gamut</string>
+  <string name="oneplus_mode_title">Mode OnePlus</string>
+  <string name="night_mode_title">Mode malam</string>
+  <string name="refresh_title">Kecepatan refresh layar</string>
+  <string name="refresh_rate_title">Paksa kecepatan refresh maksimum</string>
+  <string name="refresh_rate_summary">Pilih di antara kecepatan refresh puncak yang berbeda</string>
+  <string name="refresh_rate_warning">Menggunakan kecepatan refresh maksimum yang dipaksakan akan memengaruhi masa pakai baterai secara signifikan</string>
+  <string name="auto_refresh_rate_title">Mode refresh otomatis</string>
+  <string name="auto_refresh_rate_summary">Biarkan aplikasi memutuskan kecepatan refresh yang akan digunakan</string>
+  <string name="tile_hbm_mode">Mode kecerahan tinggi</string>
+  <string name="tile_dcd_mode">Mode DC Dimming</string>
+  <string name="tile_panel_mode">Mode warna</string>
+  <string name="tile_refresh_rate">Kecepatan refresh layar</string>
+  <string name="category_doze">Tampilan Ambien</string>
+  <string name="doze_category_title">Notifikasi</string>
+  <string name="doze_category_summary">Konfigurasi kapan harus membangunkan layar untuk pemberitahuan</string>
+  <string name="buttons_title">Tombol</string>
+  <string name="swap_back_recents_title">Tukar kembali dan tombol baru-baru ini</string>
+</resources>

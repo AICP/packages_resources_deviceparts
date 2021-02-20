@@ -23,6 +23,9 @@
   <string name="double_tap_title">ダブルタップでスリープ解除</string>
   <string name="double_tap_summary">画面をダブルタップしてスリープ解除する</string>
   <string name="sweep_to_wake_title">スワイプでスリープ解除</string>
+  <string name="sweep_to_wake_summary">画面消灯時に画面下部を左側から右側にスワイプしてスリープ解除する</string>
+  <string name="sweep_to_sleep_title">スワイプしてスリープ</string>
+  <string name="sweep_to_sleep_summary">画面点灯時にに画面下部を左側から右側にスワイプしてスリープする</string>
   <string name="category_audio">オーディオ</string>
   <string name="sound_title">サウンド拡張</string>
   <string name="sound_summary">メディアコンテンツに基づく音声出力を編集する</string>
