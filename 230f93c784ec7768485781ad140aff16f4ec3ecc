@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0e0b0a72_340904eb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1375
+      },
+      "writtenOn": "2021-04-17T10:38:36Z",
+      "side": 1,
+      "message": "hima needs this for speaket protection settings in DeviceParts",
+      "revId": "230f93c784ec7768485781ad140aff16f4ec3ecc",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
