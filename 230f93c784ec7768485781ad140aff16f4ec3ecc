@@ -16,6 +16,23 @@
       "message": "hima needs this for speaket protection settings in DeviceParts",
       "revId": "230f93c784ec7768485781ad140aff16f4ec3ecc",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "25ea02f8_a571ef32",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1375
+      },
+      "writtenOn": "2021-05-13T06:04:34Z",
+      "side": 1,
+      "message": "no need https://gerrit.aicp-rom.com/c/AICP/device_htc_hima/+/109787",
+      "revId": "230f93c784ec7768485781ad140aff16f4ec3ecc",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
     }
   ]
 }
