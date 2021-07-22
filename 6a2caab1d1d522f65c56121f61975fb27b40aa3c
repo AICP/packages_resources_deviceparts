@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "858079d7_517ae752",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 343
+      },
+      "writtenOn": "2021-07-22T05:42:48Z",
+      "side": 1,
+      "message": "let\u0027s test it that way. Can currently only affect my device line, haha.",
+      "revId": "6a2caab1d1d522f65c56121f61975fb27b40aa3c",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
