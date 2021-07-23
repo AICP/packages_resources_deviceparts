@@ -195,6 +195,12 @@
   <!-- Sound tuner package -->
   <string name="sound_tuner_packagename" translatable="false">com.oneplus.sound.tuner</string>
 
+  <!-- Dolby -->
+  <string name="dolby_category">Dolby</string>
+  <string name="dolby_title">Dolby Atmos</string>
+  <string name="dolby_summary">Configure the audio output based on media content</string>
+  <string name="dolby_info">When enable/disable Dolby Atmos, pause/play media for changes to take effect.</string>
+
   <!-- speaker protection -->
   <string name="speakerprotection_summary">Speaker protection feature</string>
   <string name="speakerprotection_title">Speaker protection</string>
