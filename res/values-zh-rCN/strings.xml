@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (C) 2014-2017 The OmniROM Project
+     Copyright (C) 2021 Android Ice Cold Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -23,7 +24,9 @@
   <string name="double_tap_title">双击唤醒</string>
   <string name="double_tap_summary">双击时唤醒屏幕</string>
   <string name="sweep_to_wake_title">滑动唤醒</string>
-  <string name="sweep_to_wake_summary">从左到右扫动显示屏底部以唤醒手机</string>
+  <string name="sweep_to_wake_summary">屏幕关闭后，通过从左到右扫清屏幕底部唤醒您的手机</string>
+  <string name="sweep_to_sleep_title">滑动以睡眠</string>
+  <string name="sweep_to_sleep_summary">在屏幕开启后，通过从左到右扫清屏幕底部使您的手机休眠</string>
   <string name="category_audio">音频</string>
   <string name="sound_title">声音改进</string>
   <string name="sound_summary">基于媒体内容配置音频输出。</string>
@@ -117,6 +120,7 @@
   <string name="panel_mode_info">禁用颜色模式需要重启。</string>
   <string name="off_mode_title">关闭</string>
   <string name="srgb_mode_title">sRGB 模式</string>
+  <string name="adobergb_mode_title">Adobe RGB 模式</string>
   <string name="dci_mode_title">DCI-P3 模式</string>
   <string name="wide_mode_title">AMOLED 广色域</string>
   <string name="oneplus_mode_title">一加模式</string>
@@ -136,4 +140,8 @@
   <string name="doze_category_summary">配置何时唤醒屏幕</string>
   <string name="buttons_title">按钮</string>
   <string name="swap_back_recents_title">交换返回和最近任务按钮</string>
+  <string name="display_peak_refresh_rate_title">峰值刷新率</string>
+  <string name="display_min_refresh_rate_title">最低刷新率</string>
+  <string name="speakerprotection_summary">扬声器保护功能</string>
+  <string name="speakerprotection_title">扬声器保护</string>
 </resources>

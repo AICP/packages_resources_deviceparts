@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (C) 2014-2017 The OmniROM Project
+     Copyright (C) 2021 Android Ice Cold Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -22,8 +23,10 @@
   <string name="single_tap_summary">AOD-módban egy egyszeri érintés felébreszti a képernyőt</string>
   <string name="double_tap_title">Felébresztés dupla érintésre</string>
   <string name="double_tap_summary">Dupla érintésre felold a képernyő</string>
-  <string name="sweep_to_wake_title">Ébresztés csúsztatással</string>
-  <string name="sweep_to_wake_summary">Felébresztheti telefonját a képernyő alján balról jobbra söpörve</string>
+  <string name="sweep_to_wake_title">Ébresztés legyintéssel</string>
+  <string name="sweep_to_wake_summary">Ha a képernyő ki van kapcsolva, felébresztheti telefonját a képernyő alján balról jobbra legyintve</string>
+  <string name="sweep_to_sleep_title">Alvómód legyintéssel</string>
+  <string name="sweep_to_sleep_summary">Ha a képernyő be van kapcsolva, kikapcsolhatja a képernyőt a telefon-képernyő alján balról jobbra legyintve</string>
   <string name="category_audio">Hang</string>
   <string name="sound_title">Hangminőség-javítás</string>
   <string name="sound_summary">A médiatartalomhoz állítsa be a kimeneti hangot.</string>
@@ -117,6 +120,7 @@
   <string name="panel_mode_info">A színkezelés letiltásához újraindítás szükséges.</string>
   <string name="off_mode_title">Ki</string>
   <string name="srgb_mode_title">sRGB-mód</string>
+  <string name="adobergb_mode_title">Adobe RGB-mód</string>
   <string name="dci_mode_title">DCI-P3-mód</string>
   <string name="wide_mode_title">AMOLED széles színtartomány</string>
   <string name="oneplus_mode_title">OnePlus-mód</string>
@@ -136,4 +140,8 @@
   <string name="doze_category_summary">Beállítható melyik értesítések ébreszthetik fel a képernyőt</string>
   <string name="buttons_title">Gombok</string>
   <string name="swap_back_recents_title">A Vissza és Előzmények gombok felcserelése</string>
+  <string name="display_peak_refresh_rate_title">A képernyő frissítési értéke</string>
+  <string name="display_min_refresh_rate_title">Képernyőfrissítési minimum</string>
+  <string name="speakerprotection_summary">Hangszóróvédelmi funkció</string>
+  <string name="speakerprotection_title">Hangszóróvédelem</string>
 </resources>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (C) 2014-2017 The OmniROM Project
+     Copyright (C) 2021 Android Ice Cold Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -24,6 +25,8 @@
   <string name="double_tap_summary">Bildschirm bei zweifachem Tippen einschalten</string>
   <string name="sweep_to_wake_title">Streichen zum Aufwecken - Sweep to Wake</string>
   <string name="sweep_to_wake_summary">Gerät aufwecken, indem unten über das Display von links nach rechts gestrichen wird</string>
+  <string name="sweep_to_sleep_title">Streichen zum Schlafen - Sweep to Sleep</string>
+  <string name="sweep_to_sleep_summary">Gerät in den Ruhezustand versetzen, indem unten über das Display von links nach rechts gestrichen wird</string>
   <string name="category_audio">Ton</string>
   <string name="sound_title">Klangverbesserung</string>
   <string name="sound_summary">Audioausgabe basierend auf Medieninhalten verbessern.</string>
@@ -117,6 +120,7 @@
   <string name="panel_mode_info">Die Deaktivierung erfordert einen Neustart.</string>
   <string name="off_mode_title">Aus</string>
   <string name="srgb_mode_title">sRGB</string>
+  <string name="adobergb_mode_title">Adobe RGB</string>
   <string name="dci_mode_title">DCI-P3</string>
   <string name="wide_mode_title">Erweitert (AMOLED)</string>
   <string name="oneplus_mode_title">OnePlus</string>
@@ -136,4 +140,8 @@
   <string name="doze_category_summary">Konfigurieren, wann der Bildschirm bei Benachrichtigungen aufgeweckt wird</string>
   <string name="buttons_title">Tasten</string>
   <string name="swap_back_recents_title">\"Zurück\"- und \"Anwendungsverlauf\"-Taste tauschen</string>
+  <string name="display_peak_refresh_rate_title">Maximale Aktualisierungsrate</string>
+  <string name="display_min_refresh_rate_title">Minimale Aktualisierungsrate</string>
+  <string name="speakerprotection_summary">Lautsprecher-Schutzfunktion</string>
+  <string name="speakerprotection_title">Lautsprecherschutz</string>
 </resources>
