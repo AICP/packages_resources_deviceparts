@@ -168,6 +168,7 @@
   <!-- QS Tiles -->
   <string name="tile_hbm_mode">High brightness mode</string>
   <string name="tile_dcd_mode">DC Dimming mode</string>
+  <string name="tile_dolby_atmos">Dolby Atmos</string>
   <string name="tile_panel_mode">Color modes</string>
   <string name="tile_refresh_rate">Screen refresh rate</string>
 
