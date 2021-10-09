@@ -200,4 +200,10 @@
   <!-- speaker protection -->
   <string name="speakerprotection_summary">Speaker protection feature</string>
   <string name="speakerprotection_title">Speaker protection</string>
+
+  <!-- Game Mode Switch -->
+  <string name="category_gamemode">Touch Screen</string>
+  <string name="game_mode_title">Game mode</string>
+  <string name="game_mode_summary">Force enabling high touchscreen sampling rate for all applications</string>
+  <string name="game_mode_warning">May increase drastically battery consumption</string>
 </resources>
