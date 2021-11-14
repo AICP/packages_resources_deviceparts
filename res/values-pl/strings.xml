@@ -24,6 +24,9 @@
   <string name="double_tap_title">Stuknij dwukrotnie aby uśpić</string>
   <string name="double_tap_summary">Obudź ekran po dwukrotnym stuknięciu</string>
   <string name="sweep_to_wake_title">Przeciągnij, aby wybudzić</string>
+  <string name="sweep_to_wake_summary">Z wyłączonym ekranem, wybudzaj telefon poprzez przechylenie na dole ekranu od lewej do prawej</string>
+  <string name="sweep_to_sleep_title">Przeciągnij, aby uśpić</string>
+  <string name="sweep_to_sleep_summary">Z wyłączonym ekranem, wybudzaj telefon poprzez przechylenie na dole ekranu od lewej do prawej</string>
   <string name="category_audio">Dźwięk</string>
   <string name="sound_title">Wzmocnienie dźwięku</string>
   <string name="sound_summary">Skonfiguruj wyjście audio na podstawie treści multimedialnych.</string>
@@ -117,6 +120,7 @@
   <string name="panel_mode_info">Wyłączenie trybów kolorów wymaga ponownego uruchomienia.</string>
   <string name="off_mode_title">Wył</string>
   <string name="srgb_mode_title">tryb sRGB</string>
+  <string name="adobergb_mode_title">Tryb Adobe RGB</string>
   <string name="dci_mode_title">Tryb DCI-P3</string>
   <string name="wide_mode_title">AMOLED Szeroki kolor Gamut</string>
   <string name="oneplus_mode_title">Tryb OnePlus</string>

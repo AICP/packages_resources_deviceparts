@@ -24,6 +24,9 @@
   <string name="double_tap_title">Toque duplo para ligar a tela</string>
   <string name="double_tap_summary">Ligar a tela com um toque duplo</string>
   <string name="sweep_to_wake_title">Deslize para ligar a tela</string>
+  <string name="sweep_to_wake_summary">Ligue o seu telefone deslizando na parte inferior da tela da esquerda para a direita</string>
+  <string name="sweep_to_sleep_title">Deslize para dormir</string>
+  <string name="sweep_to_sleep_summary">Com a tela ligada desligue-a deslizando na parte inferior da tela da esquerda para a direita</string>
   <string name="category_audio">Áudio</string>
   <string name="sound_title">Aprimoramento de som</string>
   <string name="sound_summary">Configurar a saída de áudio com base no conteúdo multimídia.</string>
@@ -117,6 +120,7 @@
   <string name="panel_mode_info">Desativar modos de cores requer uma reinicialização.</string>
   <string name="off_mode_title">Desativado</string>
   <string name="srgb_mode_title">modo sRGB</string>
+  <string name="adobergb_mode_title">Modo Adobe RGB</string>
   <string name="dci_mode_title">Modo DCI-P3</string>
   <string name="wide_mode_title">AMOLED com cores intensas</string>
   <string name="oneplus_mode_title">Modo OnePlus</string>
@@ -136,4 +140,8 @@
   <string name="doze_category_summary">Configurar quando ligar a tela para notificações</string>
   <string name="buttons_title">Botões</string>
   <string name="swap_back_recents_title">Inverter botões \"voltar\" e \"recentes\"</string>
+  <string name="display_peak_refresh_rate_title">Taxa de atualização da tela</string>
+  <string name="display_min_refresh_rate_title">Taxa de atualização mínima</string>
+  <string name="speakerprotection_summary">Recurso de proteção do alto-falante</string>
+  <string name="speakerprotection_title">Proteção do alto-falante</string>
 </resources>

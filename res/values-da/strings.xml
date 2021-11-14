@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014-2017 The OmniROM Project
+     Copyright (C) 2021 Android Ice Cold Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+  <string name="device_title">Yderligere enhedsindstillinger</string>
+  <string name="device_summary">Justér unikke enhedsindstillinger</string>
+  <string name="advanced_settings">Avancerede indstillinger</string>
+  <string name="wake_entry">Vækkelse</string>
+  <string name="single_tap_title">Enkelttryk</string>
+  <string name="single_tap_summary">Væk skærmen ved enkelttryk i EKS-tilstand</string>
+  <string name="double_tap_title">Dobbelttryk for at vække</string>
+  <string name="double_tap_summary">Væk skærmen ved dobbelttryk</string>
+  <string name="sweep_to_wake_title">Stryg for at vække</string>
+  <string name="sweep_to_wake_summary">Væk, med skærmen FRA, din telefon, ved at stryge nederst på skærmen, fra venstre mod højre</string>
+  <string name="sweep_to_sleep_title">Stryg for at slumre</string>
+  <string name="sweep_to_sleep_summary">Sæt, med skærmen TIL, din telefon til at slumre, ved at stryge nederst på skærmen, fra højre mod venstre</string>
+  <string name="category_audio">Lyd</string>
+  <string name="sound_title">Lydforbedring</string>
+  <string name="sound_summary">Konfigurér lydoutputtet, baseret på medieindhold.</string>
+  <string name="enable_sound_title">(De)aktivér Lydjustering</string>
+  <string name="enable_sound_summary">Ændring KRÆVER genstart, for at træde i kraft!</string>
+  <string name="enable_sound_info">Bemærk: Med Lydjustering aktiveret, bør andre EQ-effekter, som MusicFX deaktiveres.</string>
+  <string name="category_backlight_dimmer">Baggrundsbelysningsdæmper</string>
+  <string name="backlight_dimmer_title">Baggrundsbelysningsdæmper</string>
+  <string name="backlight_dimmer_summary">indstil minimal skærm-lysstyrke</string>
+  <string name="backlight_dimmer_rev_summary">indstil maksimal skærm-lysstyrke</string>
+  <string name="category_power">Strøm</string>
+  <string name="fastcharge_summary">Hurtiglad op til 900mA</string>
+  <string name="fastcharge_title">Hurtigladning</string>
+  <string name="screen_gestures_panel_title">Berøringer</string>
+  <string name="category_gestures_title">Enhedsberøringer</string>
+  <string name="category_gestures_summary">Konfigurér berøringshandlinger</string>
+  <string name="offscreen_gesture_title">Berøringer fra udenfor skærm</string>
+  <string name="off_screen_gesture_feedback_title_head">Haptisk tilbagemelding</string>
+  <string name="off_screen_gesture_feedback_summary_head">Aktivér haptisk tilbagemelding for berøringer</string>
+  <string name="music_play_gesture_title_head">Musik-kontrol</string>
+  <string name="music_play_gesture_summary_head">Tegn || med to fingre, for at afspille eller pause musik. Tegn &lt; eller &gt; for forrige eller næste spor</string>
+  <string name="category_down_swipe_gesture">Stryg nedad</string>
+  <string name="category_up_swipe_gesture">Stryg opad</string>
+  <string name="category_left_swipe_gesture">Stryg mod venstre</string>
+  <string name="category_right_swipe_gesture">Stryg mod højre</string>
+  <string name="category_double_swipe_gesture">||-berøring</string>
+  <string name="category_up_arrow_gesture">En berøring</string>
+  <string name="category_left_arrow_gesture">&lt;-berøring</string>
+  <string name="category_right_arrow_gesture">&gt;-berøring</string>
+  <string name="category_circle_gesture">O-berøring</string>
+  <string name="category_down_arrow_gesture">V-berøring</string>
+  <string name="category_m_gesture">M-berøring</string>
+  <string name="category_s_gesture">S-berøring</string>
+  <string name="category_w_gesture">W-berøring</string>
+  <string name="disabled_entry">Deaktiveret</string>
+  <string name="camera_entry">Kamera</string>
+  <string name="torch_entry">Lommelygte</string>
+  <string name="music_play_entry">Afspil/Pause musik</string>
+  <string name="music_prev_entry">Forr. spor</string>
+  <string name="music_next_entry">Næst. spor</string>
+  <string name="ambient_display_entry">Døs</string>
+  <string name="choose_app">Vælg app/handling</string>
+  <string name="not_ready_summary">Løser...</string>
+  <string name="resolve_failed_summary">Løser appfejl</string>
+  <string name="category_audiogains">Lydforstærkninger</string>
+  <string name="headphone_gain_title">Hovedtelefon</string>
+  <string name="headphone_gain_summary">Justér til hovedtelefoner</string>
+  <string name="earpiece_gain_title">Øresnegl</string>
+  <string name="earpiece_gain_summary">Justér for øresnegl</string>
+  <string name="mic_gain_title">Mikrofon</string>
+  <string name="mic_gain_summary">Justér til mikrofon</string>
+  <string name="speaker_gain_title">Højttalere</string>
+  <string name="speaker_gain_summary">Justér til højttalere</string>
+  <string name="fp_gesture_title">Fingeraftryksberøringer</string>
+  <string name="fp_gesture_title_summary">Udfør kvik-handlinger, ved at stryge over fingeraftrykslæser</string>
+  <string name="category_fp_down_swipe_gesture">Fingeraftryk-nedstrøg</string>
+  <string name="category_fp_up_swipe_gesture">Fingeraftryk-opstrøg</string>
+  <string name="category_fp_right_swipe_gesture">Fingeraftryk-højrestrøg</string>
+  <string name="category_fp_left_swipe_gesture">Fingeraftryk-venstrestrøg</string>
+  <string name="category_fp_long_press_gesture">Fingeraftryk-langttryk</string>
+  <string name="fp_swipe_down_switch_title_head">AOSP Fingeraftryk-nedstrøgsberøring</string>
+  <string name="fp_swipe_down_switch_summary_head">Slå standard notifikationsnedstrøg-berøring til/fra</string>
+  <string name="category_vibrator">Vibrator</string>
+  <string name="vib_test">Afprøv</string>
+  <string name="vib_strength_info">Bemærk:\n\nAktivér venligst først Vibration i Indstillinger -&gt; Tilgængelighed -&gt; Vibration helt, for at få en haptisk tilbagemelding ved ændring af styrken.</string>
+  <string name="vib_strength_title">System</string>
+  <string name="vib_strength_summary">Definér vibratorens generiske styrke</string>
+  <string name="vib_call_strength_title">Under opkald</string>
+  <string name="vib_call_strength_summary">Definér styrken, for begivenheder under opkald, separat</string>
+  <string name="vib_notif_strength_title">Notifikationer</string>
+  <string name="vib_notif_strength_summary">Definér styrken, for indgående notifikationer, separat</string>
+  <string name="category_slider">Alarmskyder</string>
+  <string name="slider_mode_title">Skydertilstand</string>
+  <string name="slider_mode_title_top">Øverste position</string>
+  <string name="slider_mode_title_center">Midterste position</string>
+  <string name="slider_mode_title_bottom">Nederste position</string>
+  <string name="slider_mode_alarm">Kun alarmer</string>
+  <string name="slider_mode_off">Ringetone</string>
+  <string name="slider_mode_priority">Kun prioriterede</string>
+  <string name="slider_mode_silent">Lydløs</string>
+  <string name="slider_mode_vibrate">Vibrér</string>
+  <string name="slider_mode_zen">Forstyr Ikke</string>
+  <string name="slider_mode_flashlight">Lommelygte</string>
+  <string name="graphics_title">Skærm</string>
+  <string name="dcd_mode_title">DC-Dæmpning</string>
+  <string name="dcd_mode_summary">Reducér flimmer, ved at undervolte skærmen</string>
+  <string name="hbm_mode_title">Høj lysstyrke-tilstand</string>
+  <string name="hbm_mode_summary">Aktivér maksimal lysstyrke for lyse omgivelser (påvirker batteriets levetid!)</string>
+  <string name="panel_category_title">Farvetilstande</string>
+  <string name="panel_category_summary">Skærmtilstande for farvekorrektion</string>
+  <string name="panel_mode_info">Deaktivering af farvetilstande kræver genstart.</string>
+  <string name="off_mode_title">Fra</string>
+  <string name="srgb_mode_title">sRGB-tilstand</string>
+  <string name="adobergb_mode_title">Adobe RGB-tilstand</string>
+  <string name="dci_mode_title">DCI-P3-tilstand</string>
+  <string name="wide_mode_title">AMOLED Bredt-Farvegamut</string>
+  <string name="oneplus_mode_title">OnePlus-tilstand</string>
+  <string name="night_mode_title">Nattilstand</string>
+  <string name="refresh_title">Skærmopdatering</string>
+  <string name="refresh_rate_title">Tvungen maksimal opdateringsfrekvens</string>
+  <string name="refresh_rate_summary">Vælg mellem forskellige spidsopdateringsfrekvenser</string>
+  <string name="refresh_rate_warning">Brug af tvungen maksimal opdateringsfrekvens, vil påvirke batteriets levetid væsentligt</string>
+  <string name="auto_refresh_rate_title">Automatisk opdateringstilstand</string>
+  <string name="auto_refresh_rate_summary">Lad apps bestemme, hvilken opdateringsfrekvens de vil bruge</string>
+  <string name="tile_hbm_mode">Høj lysstyrke-tilstand</string>
+  <string name="tile_dcd_mode">DC-Dæmpningstilstand</string>
+  <string name="tile_panel_mode">Farvetilstande</string>
+  <string name="tile_refresh_rate">Skærmopdateringsfrekvens</string>
+  <string name="category_doze">Aktiv Låseskærm</string>
+  <string name="doze_category_title">Notifikationer</string>
+  <string name="doze_category_summary">Konfigurér hvornår skærmen skal vækkes for notifikationer</string>
+  <string name="buttons_title">Knapper</string>
+  <string name="swap_back_recents_title">Byt om på tilbage- og seneste-knap</string>
+  <string name="display_peak_refresh_rate_title">Spids-genopfriskningsrate</string>
+  <string name="display_min_refresh_rate_title">Minimal genopfriskningsrate</string>
+  <string name="speakerprotection_summary">Højtalerbeskyttelsesfunktion</string>
+  <string name="speakerprotection_title">Højtalerbeskyttelse</string>
+</resources>
