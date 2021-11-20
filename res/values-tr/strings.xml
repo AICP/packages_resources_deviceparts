@@ -144,4 +144,8 @@
   <string name="display_min_refresh_rate_title">Minimum yenileme hızı</string>
   <string name="speakerprotection_summary">Hoparlör koruma özelliği</string>
   <string name="speakerprotection_title">Hoparlör koruması</string>
+  <string name="category_gamemode">Dokunmatik ekran</string>
+  <string name="game_mode_title">Oyun modu</string>
+  <string name="game_mode_summary">Tüm uygulamalar için yüksek dokunmatik ekran örnekleme oranını etkinleştirmeye zorlayın</string>
+  <string name="game_mode_warning">Pil tüketimini önemli ölçüde artırabilir</string>
 </resources>

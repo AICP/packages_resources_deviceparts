@@ -144,4 +144,8 @@
   <string name="display_min_refresh_rate_title">Minimale Aktualisierungsrate</string>
   <string name="speakerprotection_summary">Lautsprecher-Schutzfunktion</string>
   <string name="speakerprotection_title">Lautsprecherschutz</string>
+  <string name="category_gamemode">Touchscreen</string>
+  <string name="game_mode_title">Spielmodus</string>
+  <string name="game_mode_summary">Erzwinge die Aktivierung einer hohen Touchscreen-Abtastrate für alle Anwendungen</string>
+  <string name="game_mode_warning">Kann den Akkuverbrauch drastisch erhöhen</string>
 </resources>

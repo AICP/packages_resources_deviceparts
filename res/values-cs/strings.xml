@@ -144,4 +144,8 @@
   <string name="display_min_refresh_rate_title">Minimální obnovovací frekvence</string>
   <string name="speakerprotection_summary">Funkce ochrany reproduktoru</string>
   <string name="speakerprotection_title">Ochrana reproduktoru</string>
+  <string name="category_gamemode">Dotyková obrazovka</string>
+  <string name="game_mode_title">Herní režim</string>
+  <string name="game_mode_summary">Vynucení vysoké vzorkovací frekvence dotykové obrazovky pro všechny aplikace</string>
+  <string name="game_mode_warning">Může drasticky zvýšit spotřebu baterie</string>
 </resources>
