@@ -144,4 +144,8 @@
   <string name="display_min_refresh_rate_title">Tasa de refresco mínima</string>
   <string name="speakerprotection_summary">Función de protección del altavoz</string>
   <string name="speakerprotection_title">Protección del altavoz</string>
+  <string name="category_gamemode">Pantalla táctil</string>
+  <string name="game_mode_title">Modo juego</string>
+  <string name="game_mode_summary">Forzar activación de alta velocidad de muestreo de pantalla táctil para todas las aplicaciones</string>
+  <string name="game_mode_warning">Puede aumentar drásticamente el consumo de batería</string>
 </resources>

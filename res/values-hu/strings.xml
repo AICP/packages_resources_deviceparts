@@ -144,4 +144,8 @@
   <string name="display_min_refresh_rate_title">Képernyőfrissítési minimum</string>
   <string name="speakerprotection_summary">Hangszóróvédelmi funkció</string>
   <string name="speakerprotection_title">Hangszóróvédelem</string>
+  <string name="category_gamemode">Érintőképernyő</string>
+  <string name="game_mode_title">Játékmód</string>
+  <string name="game_mode_summary">Minden alkalmazáshoz erőltetni fogja az emelt képernyő-mintavételezési gyakoriságot</string>
+  <string name="game_mode_warning">Ez drasztikusan befolyásolhatja az akkufogyasztást</string>
 </resources>

@@ -144,4 +144,8 @@
   <string name="display_min_refresh_rate_title">最低刷新率</string>
   <string name="speakerprotection_summary">扬声器保护功能</string>
   <string name="speakerprotection_title">扬声器保护</string>
+  <string name="category_gamemode">触摸屏</string>
+  <string name="game_mode_title">游戏模式</string>
+  <string name="game_mode_summary">强制为所有应用程序启用触屏高采样率</string>
+  <string name="game_mode_warning">可能大幅增加耗电</string>
 </resources>
