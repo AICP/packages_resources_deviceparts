@@ -144,4 +144,8 @@
   <string name="display_min_refresh_rate_title">最小リフレッシュレート</string>
   <string name="speakerprotection_summary">スピーカー保護機能</string>
   <string name="speakerprotection_title">スピーカー保護</string>
+  <string name="category_gamemode">タッチ画面</string>
+  <string name="game_mode_title">ゲームモード</string>
+  <string name="game_mode_summary">全てのアプリにタッチ画面の高サンプリングレートを強制有効化する</string>
+  <string name="game_mode_warning">バッテリー消費が急激に増加する可能性があります</string>
 </resources>

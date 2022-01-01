@@ -144,4 +144,8 @@
   <string name="display_min_refresh_rate_title">Frequenza d\'aggiornamento minima</string>
   <string name="speakerprotection_summary">Funzione di protezione altoparlante</string>
   <string name="speakerprotection_title">Protezione altoparlante</string>
+  <string name="category_gamemode">Schermo Touch</string>
+  <string name="game_mode_title">Modalità gioco</string>
+  <string name="game_mode_summary">Forza l\'attivazione di un alto tasso di campionamento touchscreen per tutte le applicazioni</string>
+  <string name="game_mode_warning">Può aumentare drasticamente il consumo di batterie</string>
 </resources>

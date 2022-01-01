@@ -144,4 +144,8 @@
   <string name="display_min_refresh_rate_title">Kecepatan refresh minimal</string>
   <string name="speakerprotection_summary">Fitur perlindungan speaker</string>
   <string name="speakerprotection_title">Perlindungan speaker</string>
+  <string name="category_gamemode">Layar Sentuh</string>
+  <string name="game_mode_title">Mode permainan</string>
+  <string name="game_mode_summary">Memaksa mengaktifkan tingkat pengambilan sampel layar sentuh yang tinggi untuk semua aplikasi</string>
+  <string name="game_mode_warning">Dapat meningkatkan konsumsi baterai secara drastis</string>
 </resources>
