@@ -15,6 +15,7 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">PartsBin</string>
   <string name="device_title">Rozšířená nastavení zařízení</string>
   <string name="device_summary">Upravte jedinečná nastavení zařízení</string>
   <string name="advanced_settings">Pokročilá nastavení</string>

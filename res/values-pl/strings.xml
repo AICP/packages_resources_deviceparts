@@ -144,4 +144,8 @@
   <string name="display_min_refresh_rate_title">Minimalna częstotliwość odświeżania ekranu</string>
   <string name="speakerprotection_summary">Funkcja ochrony głośników</string>
   <string name="speakerprotection_title">Ochrona głośników</string>
+  <string name="category_gamemode">Ekran dotykowy</string>
+  <string name="game_mode_title">Tryb gry</string>
+  <string name="game_mode_summary">Wymuś włączenie wysokiej częstotliwości ekranu dotykowego dla wszystkich aplikacji</string>
+  <string name="game_mode_warning">Może drastycznie zwiększyć zużycie baterii</string>
 </resources>
