@@ -45,7 +45,7 @@
   <string name="category_gestures_summary">ジェスチャーアクションを編集する</string>
   <string name="offscreen_gesture_title">画面消灯時のジェスチャー</string>
   <string name="off_screen_gesture_feedback_title_head">振動フィードバック</string>
-  <string name="off_screen_gesture_feedback_summary_head">ジェスチャーで振動フィードバックを有効にする</string>
+  <string name="off_screen_gesture_feedback_summary_head">ジェスチャーで振動フィードバックを有効化する</string>
   <string name="music_play_gesture_title_head">音楽の制御</string>
   <string name="music_play_gesture_summary_head">音楽を再生または一時停止するには || を2本の指で描きます。 前後のトラックに移動するには &lt; または &gt; を描きます</string>
   <string name="category_down_swipe_gesture">下スワイプ</string>
@@ -108,12 +108,13 @@
   <string name="slider_mode_priority">優先通知のみ</string>
   <string name="slider_mode_silent">サイレント</string>
   <string name="slider_mode_vibrate">振動</string>
+  <string name="slider_mode_zen">Do Not Disturb</string>
   <string name="slider_mode_flashlight">フラッシュライト</string>
   <string name="graphics_title">ディスプレイ</string>
   <string name="dcd_mode_title">DC 調光</string>
   <string name="dcd_mode_summary">ディスプレイの電圧を下げることでちらつきを軽減する</string>
   <string name="hbm_mode_title">高輝度モード</string>
-  <string name="hbm_mode_summary">明るい環境で最大の明るさを有効にする (バッテリーの寿命に影響します!)</string>
+  <string name="hbm_mode_summary">明るい環境で最大の明るさを有効化する (バッテリーの寿命に影響します!)</string>
   <string name="panel_category_title">色モード</string>
   <string name="panel_category_summary">色補正のディスプレイモード</string>
   <string name="panel_mode_info">色モードを無効にするには再起動が必要です</string>

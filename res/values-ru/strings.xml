@@ -144,4 +144,8 @@
   <string name="display_min_refresh_rate_title">Минимальная частота обновления</string>
   <string name="speakerprotection_summary">Функция защиты динамиков</string>
   <string name="speakerprotection_title">Защита динамиков</string>
+  <string name="category_gamemode">Сенсорный экран</string>
+  <string name="game_mode_title">Игровой режим</string>
+  <string name="game_mode_summary">Включить высокую частоту дискретизации сенсорного экрана для всех приложений</string>
+  <string name="game_mode_warning">Может значительно увеличить расход батареи</string>
 </resources>
