@@ -3,7 +3,7 @@
     android:width="24dp"
     android:viewportHeight="512"
     android:viewportWidth="512"
-    android:tint="?android:attr/colorAccent">
+    android:tint="?android:attr/colorControlNormal">
     <path android:fillColor="#FFF" android:pathData="m241,72.105v-36.951c-57.822,3.319 -112.046,25.788 -155.327,64.361l66.936,66.936c15.649,-13.028 33.382,-22.851 52.389,-29.139 2.89,-13.546 5.393,-24.933 7.074,-32.497 3.472,-15.626 14.577,-27.7 28.928,-32.71z"/>
     <path android:fillColor="#FFF" android:pathData="m131.389,187.657 l-66.935,-66.935c-38.606,43.269 -61.103,97.497 -64.443,155.333h94.677c3,-32.621 15.7,-63.21 36.701,-88.398z"/>
     <path android:fillColor="#FFF" android:pathData="m417.312,276.055h94.677c-3.34,-57.836 -25.836,-112.064 -64.443,-155.333l-66.935,66.935c21.001,25.187 33.701,55.777 36.701,88.398z"/>
