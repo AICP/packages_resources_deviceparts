@@ -104,7 +104,7 @@
   <string name="slider_mode_title_center">Position: mittig</string>
   <string name="slider_mode_title_bottom">Position: unten</string>
   <string name="slider_mode_alarm">Nur Weckrufe</string>
-  <string name="slider_mode_off">Ton</string>
+  <string name="slider_mode_off">Klingelton</string>
   <string name="slider_mode_priority">Nur wichtige Unterbrechungen</string>
   <string name="slider_mode_silent">Lautlos</string>
   <string name="slider_mode_vibrate">Vibration</string>
