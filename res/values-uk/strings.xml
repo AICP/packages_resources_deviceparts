@@ -14,7 +14,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="display_peak_refresh_rate_title">Максимальна частота оновлення</string>
   <string name="display_min_refresh_rate_title">Мінімальна частота оновлення</string>
   <string name="speakerprotection_summary">Функція захисту динаміка</string>

@@ -14,7 +14,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="device_title">Yderligere enhedsindstillinger</string>
   <string name="device_summary">Justér unikke enhedsindstillinger</string>
   <string name="advanced_settings">Avancerede indstillinger</string>

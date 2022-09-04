@@ -14,7 +14,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="display_peak_refresh_rate_title">اوج نرخ تازه سازی</string>
   <string name="display_min_refresh_rate_title">کمینه میزان تازه‌سازی</string>
   <string name="speakerprotection_summary">قابلیت محافظت از بلندگو</string>

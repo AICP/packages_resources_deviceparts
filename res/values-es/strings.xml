@@ -14,7 +14,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="device_title">Ajustes adicionales del dispositivo</string>
   <string name="device_summary">Configuración de características específicas de este dispositivo</string>
   <string name="advanced_settings">Ajustes avanzados</string>
@@ -148,4 +148,12 @@
   <string name="game_mode_title">Modo juego</string>
   <string name="game_mode_summary">Forzar activación de alta velocidad de muestreo de pantalla táctil para todas las aplicaciones</string>
   <string name="game_mode_warning">Puede aumentar drásticamente el consumo de batería</string>
+  <string name="network_title">Red</string>
+  <string name="nr_mode_switcher_title">Selector de modos 5G</string>
+  <string name="nsa_only">Sólo NSA</string>
+  <string name="sa_only">Sólo SA</string>
+  <string name="nsa_sa">NSA + SA</string>
+  <string name="nr_mode_switcher_warning">Por favor, vuelva a configurarlo después de reiniciar o cambiar la tarjeta Sim de datos</string>
+  <string name="service_not_ready">El servicio no está listo, inténtelo de nuevo</string>
+  <string name="unavailable_sim_slot">No se puede obtener la sim actual para datos móviles, por favor inténtalo de nuevo</string>
 </resources>

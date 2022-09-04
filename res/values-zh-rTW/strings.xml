@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014-2017 The OmniROM Project
+     Copyright (C) 2021 Android Ice Cold Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="device_title">其他裝置設定</string>
+  <string name="device_summary">調整獨特的裝置設定</string>
+  <string name="advanced_settings">進階設定</string>
+  <string name="wake_entry">喚醒</string>
+  <string name="single_tap_title">單擊</string>
+  <string name="single_tap_summary">在 AOD 模式下單擊即可喚醒顯示器</string>
+  <string name="double_tap_title">點兩下喚醒</string>
+  <string name="double_tap_summary">雙擊喚醒螢幕</string>
+  <string name="sweep_to_wake_title">滑動喚醒</string>
+  <string name="sweep_to_wake_summary">在屏幕關閉的情況下，通過從左到右掃過顯示屏底部來喚醒您的手機</string>
+  <string name="sweep_to_sleep_title">滑屏睡眠</string>
+  <string name="sweep_to_sleep_summary">在螢幕開啟的情況下，通過從左到右掃過顯示屏底部來息屏</string>
+  <string name="category_audio">音頻</string>
+  <string name="sound_title">聲音增強</string>
+  <string name="sound_summary">根據媒體內容調節音頻輸出</string>
+  <string name="enable_sound_title">啟用/禁用聲音調諧器</string>
+  <string name="enable_sound_summary">切換需要重啟才能生效</string>
+  <string name="enable_sound_info">注意：啟用 Sound Tuner 後，應禁用 MusicFX 等其他音效軟體</string>
+  <string name="category_backlight_dimmer">背光調光器</string>
+  <string name="backlight_dimmer_title">背光調光器</string>
+  <string name="backlight_dimmer_summary">設置最小顯示亮度</string>
+  <string name="backlight_dimmer_rev_summary">設置最大顯示亮度</string>
+  <string name="category_power">電源</string>
+  <string name="fastcharge_summary">快速充電至900mA</string>
+  <string name="fastcharge_title">快速充電</string>
+  <string name="screen_gestures_panel_title">手勢</string>
+  <string name="category_gestures_title">裝置手勢</string>
+  <string name="category_gestures_summary">配置手勢操作</string>
+  <string name="offscreen_gesture_title">關閉螢幕手勢</string>
+  <string name="off_screen_gesture_feedback_title_head">觸覺反饋</string>
+  <string name="off_screen_gesture_feedback_summary_head">為手勢啟用觸覺反饋</string>
+  <string name="music_play_gesture_title_head">音樂控制</string>
+  <string name="music_play_gesture_summary_head">用兩根手指描繪 ||，即可播放或暫停音樂。描繪 &lt; 或 &gt;，即可轉到上一首或下一首曲目</string>
+  <string name="category_down_swipe_gesture">向下滑動</string>
+  <string name="category_up_swipe_gesture">向上滑動</string>
+  <string name="category_left_swipe_gesture">向左滑動</string>
+  <string name="category_right_swipe_gesture">向右滑動</string>
+  <string name="category_double_swipe_gesture">||型手勢</string>
+  <string name="category_up_arrow_gesture">A型手勢</string>
+  <string name="category_left_arrow_gesture">&lt;型手勢</string>
+  <string name="category_right_arrow_gesture">&gt; 型手勢</string>
+  <string name="category_circle_gesture">O型手勢</string>
+  <string name="category_down_arrow_gesture">V型手勢</string>
+  <string name="category_m_gesture">M型手勢</string>
+  <string name="category_s_gesture">S型手勢</string>
+  <string name="category_w_gesture">W型手勢</string>
+  <string name="disabled_entry">已停用</string>
+  <string name="camera_entry">相機</string>
+  <string name="torch_entry">手電筒</string>
+  <string name="music_play_entry">播放/暫停音樂</string>
+  <string name="music_prev_entry">上一首曲目</string>
+  <string name="music_next_entry">下一首曲目</string>
+  <string name="ambient_display_entry">Doze</string>
+  <string name="choose_app">選擇應用程序/操作</string>
+  <string name="not_ready_summary">解決中...</string>
+  <string name="resolve_failed_summary">解決應用程序失敗</string>
+  <string name="category_audiogains">音訊增益</string>
+  <string name="headphone_gain_title">耳機</string>
+  <string name="headphone_gain_summary">為耳機調整</string>
+  <string name="earpiece_gain_title">耳機</string>
+  <string name="earpiece_gain_summary">調整聽筒</string>
+  <string name="mic_gain_title">麥克風</string>
+  <string name="mic_gain_summary">調整麥克風</string>
+  <string name="speaker_gain_title">揚聲器</string>
+  <string name="speaker_gain_summary">調整揚聲器</string>
+  <string name="fp_gesture_title">指紋手勢</string>
+  <string name="fp_gesture_title_summary">通過在 指紋掃描儀上滑動來執行快速操作</string>
+  <string name="category_fp_down_swipe_gesture">指紋向下滑動</string>
+  <string name="category_fp_up_swipe_gesture">指紋向上滑動</string>
+  <string name="category_fp_right_swipe_gesture">指紋向右滑動</string>
+  <string name="category_fp_left_swipe_gesture">指紋向左滑動</string>
+  <string name="category_fp_long_press_gesture">指紋長按</string>
+  <string name="fp_swipe_down_switch_title_head">AOSP 指紋向下滑動手勢</string>
+  <string name="fp_swipe_down_switch_summary_head">打開/關閉默認通知向下滑動手勢</string>
+  <string name="category_vibrator">震動</string>
+  <string name="vib_test">測試</string>
+  <string name="vib_strength_info">注意：\n\n請先在設置 -&gt; 輔助功能 -&gt; 振動中完全啟用振動，以獲得改變強度的觸覺反饋。</string>
+  <string name="vib_strength_title">系統</string>
+  <string name="vib_strength_summary">自定義震動強度</string>
+  <string name="vib_call_strength_title">來電</string>
+  <string name="vib_call_strength_summary">分別定義通話中事件的強度</string>
+  <string name="vib_notif_strength_title">通知</string>
+  <string name="vib_notif_strength_summary">單獨定義入站通知的強度</string>
+  <string name="category_slider">鬧鈴滑塊</string>
+  <string name="slider_mode_title">滑塊模式</string>
+  <string name="slider_mode_title_top">頂部位置</string>
+  <string name="slider_mode_title_center">軸心座標</string>
+  <string name="slider_mode_title_bottom">底部位置</string>
+  <string name="slider_mode_alarm">僅限鬧鐘</string>
+  <string name="slider_mode_off">鈴聲</string>
+  <string name="slider_mode_priority">僅限優先通知</string>
+  <string name="slider_mode_silent">靜音</string>
+  <string name="slider_mode_vibrate">震動</string>
+  <string name="slider_mode_zen">零打擾</string>
+  <string name="slider_mode_flashlight">手電筒</string>
+  <string name="graphics_title">顯示</string>
+  <string name="dcd_mode_title">DC 調光</string>
+  <string name="dcd_mode_summary">通過降低顯示器電壓來減少閃爍</string>
+  <string name="hbm_mode_title">高亮度模式</string>
+  <string name="hbm_mode_summary">為明亮的環境啟用最大亮度（影響電池壽命！）</string>
+  <string name="panel_category_title">色彩模式</string>
+  <string name="panel_category_summary">顏色校正的顯示模式</string>
+  <string name="panel_mode_info">禁用顏色模式需要重新啟動</string>
+  <string name="off_mode_title">關閉</string>
+  <string name="srgb_mode_title">sRGB 模式</string>
+  <string name="adobergb_mode_title">Adobe RGB 模式</string>
+  <string name="dci_mode_title">DCI-P3 模式</string>
+  <string name="wide_mode_title">AMOLED 廣色域</string>
+  <string name="oneplus_mode_title">OnePlus 模式</string>
+  <string name="night_mode_title">夜燈</string>
+  <string name="refresh_title">螢幕更新率</string>
+  <string name="refresh_rate_title">強制最大螢幕更新率</string>
+  <string name="refresh_rate_summary">選擇不同峰值的螢幕更新率</string>
+  <string name="refresh_rate_warning">強制使用螢幕更新率會對電池壽命產生巨大影響</string>
+  <string name="auto_refresh_rate_title">自動螢幕更新率</string>
+  <string name="auto_refresh_rate_summary">由應用決定螢幕更新率</string>
+  <string name="tile_hbm_mode">高亮度模式</string>
+  <string name="tile_dcd_mode">DC調光模式</string>
+  <string name="tile_panel_mode">色彩模式</string>
+  <string name="tile_refresh_rate">螢幕更新率</string>
+  <string name="category_doze">環境顯示</string>
+  <string name="doze_category_title">通知</string>
+  <string name="doze_category_summary">設置何時喚醒螢幕</string>
+  <string name="buttons_title">按鈕</string>
+  <string name="swap_back_recents_title">交換返回和選單鍵</string>
+  <string name="display_peak_refresh_rate_title">最高螢幕更新率</string>
+  <string name="display_min_refresh_rate_title">最低螢幕更新率</string>
+  <string name="speakerprotection_summary">揚聲器保護</string>
+  <string name="speakerprotection_title">揚聲器保護</string>
+  <string name="category_gamemode">觸控螢幕</string>
+  <string name="game_mode_title">遊戲模式</string>
+  <string name="game_mode_summary">強制為所有應用程序啟用高觸摸屏採樣率</string>
+  <string name="game_mode_warning">可能大幅增加耗電</string>
+  <string name="network_title">網路</string>
+  <string name="nr_mode_switcher_title">5G 模式切換器</string>
+  <string name="nsa_only">僅NSA</string>
+  <string name="sa_only">僅SA</string>
+  <string name="nsa_sa">NSA + SA</string>
+  <string name="nr_mode_switcher_warning">請在重啟/更改數據卡後重新設置</string>
+  <string name="service_not_ready">服務未就緒，請重試</string>
+  <string name="unavailable_sim_slot">無法獲取當前移動數據槽，請重試</string>
+</resources>

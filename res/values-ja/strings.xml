@@ -14,7 +14,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="device_title">その他の端末設定</string>
   <string name="device_summary">端末特有の設定を調節する</string>
   <string name="advanced_settings">高度な設定</string>
@@ -108,6 +108,7 @@
   <string name="slider_mode_priority">優先通知のみ</string>
   <string name="slider_mode_silent">サイレント</string>
   <string name="slider_mode_vibrate">振動</string>
+  <string name="slider_mode_zen">Do Not Disturb</string>
   <string name="slider_mode_flashlight">フラッシュライト</string>
   <string name="graphics_title">ディスプレイ</string>
   <string name="dcd_mode_title">DC 調光</string>

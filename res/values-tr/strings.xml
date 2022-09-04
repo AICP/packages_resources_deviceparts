@@ -14,7 +14,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="device_title">Ek cihaz ayarları</string>
   <string name="device_summary">Benzersiz cihazınızın ayarlarını yapın</string>
   <string name="advanced_settings">Gelişmiş ayarlar</string>
@@ -148,4 +148,12 @@
   <string name="game_mode_title">Oyun modu</string>
   <string name="game_mode_summary">Tüm uygulamalar için yüksek dokunmatik ekran örnekleme oranını etkinleştirmeye zorlayın</string>
   <string name="game_mode_warning">Pil tüketimini önemli ölçüde artırabilir</string>
+  <string name="network_title">Ağ</string>
+  <string name="nr_mode_switcher_title">5G Modu Değiştirici</string>
+  <string name="nsa_only">Yalnızca NSA</string>
+  <string name="sa_only">Yalnızca SA</string>
+  <string name="nsa_sa">NSA + SA</string>
+  <string name="nr_mode_switcher_warning">Lütfen yeniden başlattıktan/veri sim kartını değiştirdikten sonra tekrar ayarlayın</string>
+  <string name="service_not_ready">Hizmet hazır değil, lütfen tekrar deneyin</string>
+  <string name="unavailable_sim_slot">Mevcut mobil veri yuvası alınamıyor, lütfen tekrar deneyin</string>
 </resources>

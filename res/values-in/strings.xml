@@ -14,7 +14,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="device_title">Pengaturan perangkat tambahan</string>
   <string name="device_summary">Sesuaikan pengaturan perangkat unik</string>
   <string name="advanced_settings">Setelan lanjutan</string>
@@ -148,4 +148,12 @@
   <string name="game_mode_title">Mode permainan</string>
   <string name="game_mode_summary">Memaksa mengaktifkan tingkat pengambilan sampel layar sentuh yang tinggi untuk semua aplikasi</string>
   <string name="game_mode_warning">Dapat meningkatkan konsumsi baterai secara drastis</string>
+  <string name="network_title">Jaringan</string>
+  <string name="nr_mode_switcher_title">Pengalih Mode 5G</string>
+  <string name="nsa_only">Hanya NSA</string>
+  <string name="sa_only">Hanya SA</string>
+  <string name="nsa_sa">NSA + SA</string>
+  <string name="nr_mode_switcher_warning">Silakan atur lagi setelah mulai ulang/ganti kartu sim data</string>
+  <string name="service_not_ready">Layanan belum siap, silakan coba lagi</string>
+  <string name="unavailable_sim_slot">Tidak dapat memperoleh slot data seluler saat ini, silakan coba lagi</string>
 </resources>

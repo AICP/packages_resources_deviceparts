@@ -14,7 +14,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="device_title">Πρόσθετες ρυθμίσεις συσκευής</string>
   <string name="device_summary">Προσαρμόστε μοναδικές ρυθμίσεις της συσκευής</string>
   <string name="advanced_settings">Προηγμένες ρυθμίσεις</string>

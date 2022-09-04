@@ -14,7 +14,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="device_title">附加的设备设置</string>
   <string name="device_summary">调整特定设备的设置</string>
   <string name="advanced_settings">高级设置</string>

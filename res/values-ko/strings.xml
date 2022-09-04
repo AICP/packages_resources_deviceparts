@@ -14,7 +14,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="device_title">추가 장치 설정</string>
   <string name="device_summary">장치 설정 조정</string>
   <string name="advanced_settings">고급 설정</string>
