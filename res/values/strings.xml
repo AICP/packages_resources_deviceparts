@@ -329,4 +329,9 @@
   <string name="touchscreen_gestures_category_title">Touchscreen Gestures</string>
   <string name="touchscreen_gestures_title">Screen-Off Gestures</string>
   <string name="touchscreen_gestures_summary">Perform various touchscreen gestures for quick actions</string>
+
+  <!-- OplusParts - Power -->
+    <string name="category_power">Power</string>
+    <string name="quiet_mode_title">Quiet mode</string>
+    <string name="quiet_mode_summary">Enable Quiet mode for OEM wireless charger</string>
 </resources>
