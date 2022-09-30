@@ -334,4 +334,9 @@
     <string name="category_misc">Misc Settings</string>
     <string name="quiet_mode_title">Quiet mode</string>
     <string name="quiet_mode_summary">Enable Quiet mode for OEM wireless charger</string>
+
+  <!-- OplusParts - UiBench -->
+    <string name="category_uibench">UiBench</string>
+    <string name="jitter_test_title">Jitter</string>
+    <string name="jitter_test_summary">Calculate rendering jitter</string>
 </resources>
