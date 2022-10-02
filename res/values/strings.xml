@@ -339,4 +339,9 @@
     <string name="category_uibench">UiBench</string>
     <string name="jitter_test_title">Jitter</string>
     <string name="jitter_test_summary">Calculate rendering jitter</string>
+
+  <!-- OplusParts - CPU -->
+    <string name="cpu_title">CPU</string>
+    <string name="power_efficient_workqueue_title">Power efficient workqueue</string>
+    <string name="power_efficient_workqueue_summary">Save power by rescheduling work to a core that is already awake</string>
 </resources>
