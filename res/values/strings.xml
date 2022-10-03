@@ -309,6 +309,9 @@
   <string name="notification_slider_ringer_normal">Normal</string>
   <string name="notification_slider_ringer_vibrate">Vibrate</string>
   <string name="notification_slider_ringer_silent">Silent</string>
+  <string name="notification_slider_refresh_auto">Auto</string>
+  <string name="notification_slider_refresh_min">Min</string>
+  <string name="notification_slider_refresh_max">Max</string>
 
   <!-- OplusParts - Vibration control -->
   <string name="vib_strength_title_head">Strength</string>
