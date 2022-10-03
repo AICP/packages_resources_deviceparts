@@ -89,6 +89,7 @@
         <item>@string/notification_slider_for_rotation</item>
         <item>@string/notification_slider_for_ringer</item>
         <item>@string/notification_slider_for_notification_ringer</item>
+        <item>@string/notification_slider_for_refresh</item>
     </string-array>
 
     <string-array name="notification_slider_usage_entry_values" translatable="false">
@@ -98,6 +99,7 @@
         <item>4</item>
         <item>5</item>
         <item>6</item>
+        <item>7</item>
     </string-array>
 
     <string-array name="notification_slider_mode_entries" translatable="false">
@@ -176,5 +178,17 @@
         <item>62</item>
         <item>64</item>
         <item>63</item>
+    </string-array>
+
+    <string-array name="notification_slider_refresh_entries" translatable="false">
+        <item>@string/notification_slider_refresh_auto</item>
+        <item>@string/notification_slider_refresh_min</item>
+        <item>@string/notification_slider_refresh_max</item>
+    </string-array>
+
+    <string-array name="notification_slider_refresh_entry_values" translatable="false">
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
     </string-array>
 </resources>

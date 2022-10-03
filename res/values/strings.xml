@@ -291,6 +291,7 @@
   <string name="notification_slider_for_brightness">Brightness</string>
   <string name="notification_slider_for_rotation">Rotation</string>
   <string name="notification_slider_for_ringer">Ringer</string>
+  <string name="notification_slider_for_refresh">Refresh rate</string>
   <string name="notification_slider_for_notification_ringer">Notification and ringer</string>
 
   <string name="notification_slider_flashlight_off">Off</string>
@@ -309,6 +310,9 @@
   <string name="notification_slider_ringer_normal">Normal</string>
   <string name="notification_slider_ringer_vibrate">Vibrate</string>
   <string name="notification_slider_ringer_silent">Silent</string>
+  <string name="notification_slider_refresh_auto">Auto</string>
+  <string name="notification_slider_refresh_min">Min</string>
+  <string name="notification_slider_refresh_max">Max</string>
 
   <!-- OplusParts - Vibration control -->
   <string name="vib_strength_title_head">Strength</string>
