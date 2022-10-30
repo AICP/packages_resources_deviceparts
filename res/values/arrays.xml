@@ -90,6 +90,9 @@
         <item>@string/notification_slider_for_ringer</item>
         <item>@string/notification_slider_for_notification_ringer</item>
         <item>@string/notification_slider_for_refresh</item>
+        <item>@string/notification_slider_for_extradim</item>
+        <item>@string/notification_slider_for_nightlight</item>
+        <item>@string/notification_slider_for_colorspace</item>
     </string-array>
 
     <string-array name="notification_slider_usage_entry_values" translatable="false">
@@ -100,6 +103,9 @@
         <item>5</item>
         <item>6</item>
         <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
     </string-array>
 
     <string-array name="notification_slider_mode_entries" translatable="false">
@@ -191,4 +197,47 @@
         <item>67</item>
         <item>68</item>
     </string-array>
+
+    <string-array name="notification_slider_extradim_entries" translatable="false">
+        <item>@string/notification_slider_extradim_off</item>
+        <item>@string/notification_slider_extradim_min</item>
+        <item>@string/notification_slider_extradim_mid</item>
+        <item>@string/notification_slider_extradim_max</item>
+    </string-array>
+
+    <string-array name="notification_slider_extradim_entry_values" translatable="false">
+        <item>69</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+    </string-array>
+
+    <string-array name="notification_slider_nightlight_entries" translatable="false">
+        <item>@string/notification_slider_nightlight_off</item>
+        <item>@string/notification_slider_nightlight_min</item>
+        <item>@string/notification_slider_nightlight_mid</item>
+        <item>@string/notification_slider_nightlight_max</item>
+    </string-array>
+
+    <string-array name="notification_slider_nightlight_entry_values" translatable="false">
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>76</item>
+    </string-array>
+
+    <string-array name="notification_slider_colorspace_entries" translatable="false">
+        <item>@string/notification_slider_colorspace_vivid</item>
+        <item>@string/notification_slider_colorspace_natural</item>
+        <item>@string/notification_slider_colorspace_cinematic</item>
+        <item>@string/notification_slider_colorspace_brilliant</item>
+    </string-array>
+
+    <string-array name="notification_slider_colorspace_entry_values" translatable="false">
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+    </string-array>
+
 </resources>

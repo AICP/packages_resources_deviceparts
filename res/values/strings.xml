@@ -292,6 +292,9 @@
   <string name="notification_slider_for_rotation">Rotation</string>
   <string name="notification_slider_for_ringer">Ringer</string>
   <string name="notification_slider_for_refresh">Refresh rate</string>
+  <string name="notification_slider_for_extradim">Extra Dim</string>
+  <string name="notification_slider_for_nightlight">Night Light</string>
+  <string name="notification_slider_for_colorspace">Colorspace</string>
   <string name="notification_slider_for_notification_ringer">Notification and ringer</string>
 
   <string name="notification_slider_flashlight_off">Off</string>
@@ -313,6 +316,19 @@
   <string name="notification_slider_refresh_auto">Auto</string>
   <string name="notification_slider_refresh_min">Min</string>
   <string name="notification_slider_refresh_max">Max</string>
+
+  <string name="notification_slider_extradim_off">Off</string>
+  <string name="notification_slider_extradim_min">Min</string>
+  <string name="notification_slider_extradim_mid">Mid</string>
+  <string name="notification_slider_extradim_max">Max</string>
+  <string name="notification_slider_nightlight_off">Off</string>
+  <string name="notification_slider_nightlight_min">Min</string>
+  <string name="notification_slider_nightlight_mid">Mid</string>
+  <string name="notification_slider_nightlight_max">Max</string>
+  <string name="notification_slider_colorspace_vivid">Vivid</string>
+  <string name="notification_slider_colorspace_natural">Natural</string>
+  <string name="notification_slider_colorspace_cinematic">Cinematic</string>
+  <string name="notification_slider_colorspace_brilliant">Brilliant</string>
 
   <!-- OplusParts - Vibration control -->
   <string name="vib_strength_title_head">Strength</string>
