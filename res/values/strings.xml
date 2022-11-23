@@ -364,4 +364,16 @@
     <string name="cpu_title">CPU</string>
     <string name="power_efficient_workqueue_title">Power efficient workqueue</string>
     <string name="power_efficient_workqueue_summary">Save power by rescheduling work to a core that is already awake</string>
+
+  <!-- OplusParts - Kcal Settings -->
+    <string name="kcal_settings_title">Kcal</string>
+    <string name="kcal_settings_summary">Calibrate display via Kcal</string>
+    <string name="kcal_settings">Adjustable values</string>
+    <string name="red_title">Red</string>
+    <string name="green_title">Green</string>
+    <string name="blue_title">Blue</string>
+    <string name="saturation_title">Saturation</string>
+    <string name="hue_title">Hue</string>
+    <string name="value_title">Value</string>
+    <string name="contrast_title">Contrast</string>
 </resources>
