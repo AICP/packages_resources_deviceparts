@@ -368,4 +368,16 @@
   <!-- OplusParts - OTG -->
     <string name="otg_title">USB-OTG</string>
     <string name="otg_summary">Enable USB on-the-go mode</string>
+
+  <!-- OplusParts - Kcal Settings -->
+    <string name="kcal_settings_title">Kcal</string>
+    <string name="kcal_settings_summary">Calibrate display via Kcal</string>
+    <string name="kcal_settings">Adjustable values</string>
+    <string name="red_title">Red</string>
+    <string name="green_title">Green</string>
+    <string name="blue_title">Blue</string>
+    <string name="saturation_title">Saturation</string>
+    <string name="hue_title">Hue</string>
+    <string name="value_title">Value</string>
+    <string name="contrast_title">Contrast</string>
 </resources>
